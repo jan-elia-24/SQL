@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/50d013c3-ffdd-4ba6-bf57-72a108f73995/console.sql" value="50d013c3-ffdd-4ba6-bf57-72a108f73995" />
+    <file url="file://$PROJECT_DIR$/sakila/sakila-schema.sql" value="50d013c3-ffdd-4ba6-bf57-72a108f73995" />
+  </component>
+</project>
